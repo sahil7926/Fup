@@ -22,7 +22,6 @@ ATTACK_COOLDOWN = 120  # Cooldown period in seconds (5 minutes)
 
 
 threads = 100
-packet_size =
 
 # Global variables for managing cooldowns
 last_attack_time = defaultdict(lambda: datetime.min)
